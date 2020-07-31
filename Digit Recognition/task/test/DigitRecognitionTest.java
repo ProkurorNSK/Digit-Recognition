@@ -15,7 +15,7 @@ class Clue {
 }
 
 public class DigitRecognitionTest extends StageTest<Clue> {
-    public DigitRecognitionTest() throws Exception {
+    public DigitRecognitionTest() {
         super(Main.class);
     }
 
